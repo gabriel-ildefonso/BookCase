@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/062bf8d1-c9f8-45d5-90d2-3371c867a89e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/BookcaseApp",
+  "appService.deploySubpath": "."
+}
